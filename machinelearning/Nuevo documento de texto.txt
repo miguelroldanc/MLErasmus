@@ -1,0 +1,3 @@
+lab13: Ex 3
+No es demasiado importante el hierarchical clustering
+outlayer son los puntos que pertenecen a un cluster pero estan lejos del punto central
